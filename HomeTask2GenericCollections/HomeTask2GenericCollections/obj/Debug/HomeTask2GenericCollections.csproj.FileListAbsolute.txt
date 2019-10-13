@@ -2,3 +2,9 @@ C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2Generi
 C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.Properties.Resources.resources
 C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.csproj.GenerateResource.cache
 C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\bin\Debug\HomeTask2GenericCollections.exe.config
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\bin\Debug\HomeTask2GenericCollections.exe
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\bin\Debug\HomeTask2GenericCollections.pdb
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.Form1.resources
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.exe
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.pdb
