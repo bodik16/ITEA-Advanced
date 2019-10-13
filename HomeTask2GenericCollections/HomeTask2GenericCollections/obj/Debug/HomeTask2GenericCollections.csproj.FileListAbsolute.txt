@@ -1,0 +1,4 @@
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.csprojAssemblyReference.cache
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.Properties.Resources.resources
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.csproj.GenerateResource.cache
+C:\Users\Bogda\Desktop\ITEA Advanced\HomeTask2GenericCollections\HomeTask2GenericCollections\obj\Debug\HomeTask2GenericCollections.csproj.CoreCompileInputs.cache
